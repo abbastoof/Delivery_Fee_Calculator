@@ -1,0 +1,9 @@
+MAX_DELIVERY_FEE = 1500 #maximum delivery fee is 15 euros
+MINIMUM_ITEMS = 4 #minimum 4 items
+BULK_PACKAGE = 12 #12 items in a bulk package
+BULK_PACKAGE_FEE = 120 #1.2 euro for big package more than 12 items
+RUSH_HOURE_PERCENTAGE = 1.2 #1.2% extra fee for rush hours
+NO_FEE_THRESHOLD = 20000 #no fee for more than equal 200 euros cart value
+DISTANCE_THRESHOLD = 1000
+MINIMUM_PURCHASE = 1000 #minimum cart value is 10 euros
+BASE_FEE = 200 #base fee for first 1000 meters
